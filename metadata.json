@@ -1,0 +1,6 @@
+{
+  "name": "ErgoBreak",
+  "description": "Ergonomic movement break routines for neck, shoulders, back, wrists, and full body.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

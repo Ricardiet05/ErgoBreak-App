@@ -1,0 +1,14 @@
+Place the 13 exercise MP4 videos in this directory:
+- ex01_neck_side_tilt.mp4
+- ex02_neck_rotation.mp4
+- ex03_chin_tuck.mp4
+- ex04_shoulder_lift_and_relax.mp4
+- ex05_shoulder_rolls.mp4
+- ex06_chest_opener.mp4
+- ex07_arm_across_chest_stretch.mp4
+- ex08_seated_torso_rotation.mp4
+- ex09_seated_back_extension.mp4
+- ex10_wrist_stretch.mp4
+- ex11_wrist_circles.mp4
+- ex12_alternating_knee_lifts.mp4
+- ex13_leg_extensions.mp4
